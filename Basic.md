@@ -1,3 +1,3 @@
 HTML is basically known as Hypertext Markup Language is standard markup language used to create the structure and content of webpage.<br>
 It serves as the backbone of the web, allowing developers to design and organize text, images, links, videos, and other elements in a systematic and readable format for web browsers.</br>
-<br> anything that is written inside <!-- --> is comment to that action to make things easy to understand.</br>
+<br> anything that is written inside < !-- -- > is comment to that action to make things easy to understand.</br>
